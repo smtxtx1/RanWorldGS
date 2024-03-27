@@ -990,7 +990,6 @@ public class Form1 : Form
         }
         base.Dispose(disposing);
     }
-
     private void InitializeComponent()
     {
         this.components = new System.ComponentModel.Container();
